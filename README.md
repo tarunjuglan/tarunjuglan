@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Arham Juglan 👋
 
-<!--
-**tarunjuglan/tarunjuglan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Cyber Security student (2027) | Dehradun, India 🔐
+Open to internships and entry-level roles.
 
-Here are some ideas to get you started:
+🌐 [Portfolio](https://tarunjuglan.github.io/portfolio1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ What I'm doing
+- 54 rooms completed on [TryHackMe](https://tryhackme.com/p/juglantarun)
+- Completed the Pre Security path
+- Learning Linux, networking and OSINT
+
+## 🛠️ Skills
+`Linux` `Networking` `OSINT` `HTML` `CSS` `JavaScript` `Git`
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/arham-juglan-240731250) · [Email](mailto:juglantarun@gmail.com)
